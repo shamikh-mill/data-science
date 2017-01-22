@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 
 
+
 numbers = [1, 2, 3, 4, 5]
 #mean
 print np.mean(numbers)
